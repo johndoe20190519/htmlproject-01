@@ -2,3 +2,7 @@ planning step 1
 planning step 2
 
 done
+
+planning from readme.md
+
+from improve-readme.md
