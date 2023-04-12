@@ -1,4 +1,6 @@
-# Learning GitHub
+# Me Learning GitHub
+
+-------------------------------------------------------------------
 
 # First Remote
 The first remote testing project
